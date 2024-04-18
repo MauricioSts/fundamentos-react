@@ -9,6 +9,7 @@ const nome = 'Maurizio'
       <h1> TESTE CSS </h1>
       <Frase/>
       <Frase/>
+      <Frase/>
       <SayMyName nome = 'Maureco' />
       <SayMyName nome = 'Mauricio' />
       <SayMyName nome = {nome}/>
