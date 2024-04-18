@@ -10,6 +10,9 @@ const nome = 'Maurizio'
       <Frase/>
       <Frase/>
       <Frase/>
+      <Frase/>
+      <Frase/>
+      <Frase/>
       <SayMyName nome = 'Maureco' />
       <SayMyName nome = 'Mauricio' />
       <SayMyName nome = {nome}/>
