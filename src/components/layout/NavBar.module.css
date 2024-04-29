@@ -1,0 +1,21 @@
+.nav{
+background-color: gray;
+height: 60px;
+width: 15%;
+}
+
+.list{
+    display: flex;
+    list-style-type: none;
+   
+}
+
+.item{
+   margin-right: 1em; 
+   margin-top: 20px;
+   
+}
+.item a{
+    color: aliceblue;
+    text-decoration: none;
+}
